@@ -1,0 +1,45 @@
+table {
+    /* width: 80%; */
+    height: auto;
+    margin: 0 30% 5% 30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 14px;
+    text-align: center;
+    color: blue;
+}
+
+.description {
+    color:red;
+    font-size: 10px;
+    text-align: justify;
+    
+}
+
+
+
+.left {   
+    font-size: 10px;
+    text-align: justify;
+    vertical-align: top;
+
+
+}
+
+.right {
+    text-align: justify;
+    vertical-align:top;
+    font-size: 10px;
+}
+.bottom {
+    text-align: center;
+    font-size: 10px;
+}
+
+.bottom hr {
+    border-top: 1px solid black;
+    border-bottom: 1.34px solid rgba(95, 94, 94, 0.158);
+    
+}
